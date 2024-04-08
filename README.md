@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello Im Risky From Indonesia<br>
-🔭 I’m currently Study in Universitas Ciputra Surabaya (Informatics)<br>🌱 I’m currently learning:  React.js, and Node.js.<br>⚡ Fun fact : how to center a div
+🔭I'm currently studying at one of the universities in Surabaya, majoring in Informatics<br>🌱 I’m currently learning:  React.js, and Node.js.<br>⚡ Fun fact : how to center a div
 
 
 ## 🌐 Socials:
