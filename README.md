@@ -1,4 +1,4 @@
-# Hey, I'm Risky 👋
+# Hey, I'm Sky 👋
 
 **Full-Stack Developer · Backend & API Enthusiast · Technical SEO Learner**  
 Building web systems, REST APIs, and scalable applications with Laravel, WordPress & Flutter. 🇮🇩
